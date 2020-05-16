@@ -1,7 +1,7 @@
 # Filling Space Twitter Bot
-_This bot uses web scrapping and NLP methods to find tags and quotes from existing articles on the Filling Space webpage and posts them to Twitter every 20 mins.
+_This bot uses web scrapping and NLP methods to find tags and quotes from existing articles on the Filling Space webpage and posts them to Twitter every 20 mins._
 
-This bot is deployed to an AWS t2.micro instance._
+This bot is deployed to an AWS t2.micro instance.
 
 Twitter handle for this bot is [@fillingspace_](https://twitter.com/fillingspace_).
 
