@@ -40,8 +40,7 @@ def NASAImage():
     while True:
         t = int(time.strftime("%H", time.gmtime()))
 
-        #if 18 <= t < 21:
-        if t%1 ==0:
+        if 18 <= t < 21:
             url = photo_day()
             image = urllib.request.urlretrieve(url, "tempfile.jpg")
             filename = "tempfile.jpg"
